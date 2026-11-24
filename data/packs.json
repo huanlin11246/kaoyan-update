@@ -10,6 +10,38 @@
   "highlights": [
    {
     "subject": "政治",
+    "text": "[中国政府网] 国家统计局职能配置、内设机构和人员编制规定（2026-11-06）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 2026中国—东盟周在重庆开幕 发布十项合作计划（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 第十七次中欧财金对话在京举行（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 《教材管理条例（征求意见稿）》面向社会公开征求意见（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 守护“养老钱”“保命钱” 社保基金新规征求意见（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[中国共产党新闻网] 综合发挥纪律教育约束、保障激励作用（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 习近平会见印度尼西亚总统普拉博沃（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 习近平会见马来西亚总理安瓦尔（2026-11-20）"
+   },
+   {
+    "subject": "政治",
     "text": "[中国政府网] 国务院办公厅关于2027年部分节假日安排的通知（2026-11-05）"
    },
    {
@@ -612,6 +644,192 @@
      ],
      "answer": 3,
      "analysis": "正确项来自 新华网 2026-11-24 的报道：https://www.news.cn/talking/20261124/1130636923734119ae3706af1e3ee4ee/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 6 日）据中国政府网 2026-11-06 报道：国家统计局职能配置、内设机构和人员编制规定。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-06 由中国政府网公开发布。原文：https://www.gov.cn/zhengce/202611/content_7085350.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据人民网 2026-11-24 报道：2026中国—东盟周在重庆开幕 发布十项合作计划。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261124/1e5c9edd07984f2caca566f3ae4df075/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：第十七次中欧财金对话在京举行。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由求是网公开发布。原文：http://www.qstheory.cn/20261124/d6067e4d752a4391872f183805646eeb/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据中国政府网 2026-11-24 报道：《教材管理条例（征求意见稿）》面向社会公开征求意见。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261124/cbd89d6b862c4f5e9f5a5ef1135deb9b/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：守护“养老钱”“保命钱” 社保基金新规征求意见。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由求是网公开发布。原文：http://www.qstheory.cn/20261124/04bff0788dca4ca0af01428f0cbd1a26/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据人民网 2026-11-24 报道：综合发挥纪律教育约束、保障激励作用。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由中国共产党新闻网公开发布，题干误标为人民网。原文：https://cpc.people.com.cn/n1/2026/1124/c64094-40839384.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：习近平会见印度尼西亚总统普拉博沃。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837753.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据求是网 2026-11-20 报道：习近平会见马来西亚总理安瓦尔。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由人民网公开发布，题干误标为求是网。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837833.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：习近平会见泰国总理阿努廷。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837832.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：习近平会见新加坡总理黄循财。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837772.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：创意微视频丨鹏程万里。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/world/20261124/d0aacb0a80a14e2a99dfd02a2fe94c66/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：400米大气环境气象梯度观测塔封顶。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261124/a0c4d6e0e6914ab5abd4ce9a3531d956/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：巴青震后一月：炉灶暖 草料足 牧家安。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/local/20261124/008f0d1db8224a19b9f5cbf7f6b7313c/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据人民网 2026-11-24 报道：哈尔滨冰雪大世界存冰启用 园区冰建建设即将开工。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由新华网公开发布，题干误标为人民网。原文：https://www.news.cn/photo/20261124/3b93bdfb72c74d818729abeba0189978/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-06 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "国家统计局职能配置、内设机构和人员编制规定",
+      "2026中国—东盟周在重庆开幕 发布十项合作计划",
+      "第十七次中欧财金对话在京举行",
+      "《教材管理条例（征求意见稿）》面向社会公开征求意见"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 中国政府网 2026-11-06 的报道：https://www.gov.cn/zhengce/202611/content_7085350.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-24 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+      "守护“养老钱”“保命钱” 社保基金新规征求意见",
+      "综合发挥纪律教育约束、保障激励作用",
+      "习近平会见印度尼西亚总统普拉博沃"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-20 的报道：http://politics.people.com.cn/n1/2026/1120/c1024-40837753.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "习近平会见印度尼西亚总统普拉博沃",
+      "习近平会见马来西亚总理安瓦尔",
+      "习近平会见泰国总理阿努廷",
+      "习近平会见新加坡总理黄循财"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 人民网 2026-11-20 的报道：http://politics.people.com.cn/n1/2026/1120/c1024-40837832.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "习近平会见新加坡总理黄循财",
+      "创意微视频丨鹏程万里",
+      "400米大气环境气象梯度观测塔封顶",
+      "巴青震后一月：炉灶暖 草料足 牧家安"
+     ],
+     "answer": 1,
+     "analysis": "正确项来自 新华网 2026-11-24 的报道：https://www.news.cn/world/20261124/d0aacb0a80a14e2a99dfd02a2fe94c66/c.html"
     }
    }
   ]
