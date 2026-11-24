@@ -1,0 +1,317 @@
+[
+ {
+  "id": "d20261124",
+  "date": "2026-11-24",
+  "title": "每日考情 · 11 月 24 日",
+  "tags": [
+   "政治",
+   "时政"
+  ],
+  "highlights": [
+   {
+    "subject": "政治",
+    "text": "[中国政府网] 中共中央印发《中国共产党地方委员会工作条例》（2026-11-15）"
+   },
+   {
+    "subject": "政治",
+    "text": "[中国政府网] 中医药传统知识保护条例（2026-11-09）"
+   },
+   {
+    "subject": "政治",
+    "text": "[中国政府网] 中共中央发出通知 部署党的二十一大代表选举工作（2026-11-07）"
+   },
+   {
+    "subject": "政治",
+    "text": "[中国政府网] 国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复（2026-11-05）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版（2026-11-23）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 习近平会见马来西亚总理安瓦尔（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 习近平会见泰国总理阿努廷（2026-11-20）"
+   }
+  ],
+  "items": [
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 15 日）据中国政府网 2026-11-15 报道：中共中央印发《中国共产党地方委员会工作条例》。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-15 由中国政府网公开发布。原文：https://www.gov.cn/zhengce/202611/content_7086080.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 9 日）据中国共产党新闻网 2026-11-09 报道：中医药传统知识保护条例。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-09 由中国政府网公开发布，题干误标为中国共产党新闻网。原文：https://www.gov.cn/zhengce/content/202611/content_7085591.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 7 日）据中国政府网 2026-11-07 报道：中共中央发出通知 部署党的二十一大代表选举工作。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-07 由中国政府网公开发布。原文：https://www.gov.cn/zhengce/202611/content_7085529.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 5 日）据新华网 2026-11-05 报道：国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-05 由中国政府网公开发布，题干误标为新华网。原文：https://www.gov.cn/zhengce/content/202611/content_7085109.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由求是网公开发布。原文：http://www.qstheory.cn/20261124/c1563264ddd2431f8f5b05fa1bb1944c/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据中国共产党新闻网 2026-11-23 报道：习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-23 由求是网公开发布，题干误标为中国共产党新闻网。原文：http://www.qstheory.cn/20261123/135ccee6a2df4ea28948d58202408852/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据求是网 2026-11-20 报道：习近平会见马来西亚总理安瓦尔。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由求是网公开发布。原文：http://www.qstheory.cn/20261120/476550ac6d0f450d90d73a264e553647/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据新华网 2026-11-20 报道：习近平会见泰国总理阿努廷。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由求是网公开发布，题干误标为新华网。原文：http://www.qstheory.cn/20261120/e7bf8ae9fb5a4926ad1711e4c071fa4a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 13 日）据中国共产党新闻网 2026-11-13 报道：人工智能时代，技能人才何为。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-13 由中国共产党新闻网公开发布。原文：http://opinion.people.com.cn/n1/2026/1113/c461529-40832973.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据中国共产党新闻网 2026-11-20 报道：习近平会见马来西亚总理安瓦尔。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由中国共产党新闻网公开发布。原文：http://pic.people.com.cn/n1/2026/1120/c426981-40837850.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据中国共产党新闻网 2026-11-20 报道：习近平会见泰国总理阿努廷。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由中国共产党新闻网公开发布。原文：http://pic.people.com.cn/n1/2026/1120/c426981-40837848.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据新华网 2026-11-20 报道：习近平会见新加坡总理黄循财。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由中国共产党新闻网公开发布，题干误标为新华网。原文：https://cpc.people.com.cn/n1/2026/1120/c435113-40837869.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：钟声：扛起大国责任，共同为世界和平托底。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://opinion.people.com.cn/n1/2026/1120/c461529-40837749.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据中国共产党新闻网 2026-11-20 报道：习近平主持中俄美元首会晤。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由人民网公开发布，题干误标为中国共产党新闻网。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837273.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 19 日）据人民网 2026-11-19 报道：习近平就大国如何正确相处提出4点看法。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-19 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1119/c1024-40837188.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据新华网 2026-11-20 报道：微观察·中俄美元首首次会晤：历史性的一页。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由人民网公开发布，题干误标为新华网。原文：http://politics.people.com.cn/n1/2026/1120/c461001-40837281.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据新华网 2026-11-23 报道：共同建设一个更加美好的世界。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-23 由新华网公开发布。原文：https://www.news.cn/world/20261123/a37a79f67c9041cfb3445d1df91e991d/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 22 日）据中国共产党新闻网 2026-11-22 报道：亚太合作的“深圳印记”。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-22 由新华网公开发布，题干误标为中国共产党新闻网。原文：https://www.news.cn/politics/leaders/20261122/488d71e7dc454d2995c7102d9ce8feb6/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：我国东部和东北地区持之以恒推进全面从严治党观察。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/politics/20261124/55ccdaf07882465a9c109ef94249d463/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：神舟二十四号载人飞行任务航天员与记者见面。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/photo/20261124/fb0f321d5c6c4cb6aea66c90d402a5ba/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-15 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "中共中央印发《中国共产党地方委员会工作条例》",
+      "中医药传统知识保护条例",
+      "中共中央发出通知 部署党的二十一大代表选举工作",
+      "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 中国政府网 2026-11-15 的报道：https://www.gov.cn/zhengce/202611/content_7086080.htm"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-05 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+      "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
+      "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+      "习近平会见马来西亚总理安瓦尔"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 求是网 2026-11-20 的报道：http://www.qstheory.cn/20261120/476550ac6d0f450d90d73a264e553647/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "习近平会见马来西亚总理安瓦尔",
+      "习近平会见泰国总理阿努廷",
+      "人工智能时代，技能人才何为",
+      "习近平会见马来西亚总理安瓦尔"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 中国共产党新闻网 2026-11-13 的报道：http://opinion.people.com.cn/n1/2026/1113/c461529-40832973.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "习近平会见马来西亚总理安瓦尔",
+      "习近平会见泰国总理阿努廷",
+      "习近平会见新加坡总理黄循财",
+      "钟声：扛起大国责任，共同为世界和平托底"
+     ],
+     "answer": 1,
+     "analysis": "正确项来自 中国共产党新闻网 2026-11-20 的报道：http://pic.people.com.cn/n1/2026/1120/c426981-40837848.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "钟声：扛起大国责任，共同为世界和平托底",
+      "习近平主持中俄美元首会晤",
+      "习近平就大国如何正确相处提出4点看法",
+      "微观察·中俄美元首首次会晤：历史性的一页"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 人民网 2026-11-20 的报道：http://opinion.people.com.cn/n1/2026/1120/c461529-40837749.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "微观察·中俄美元首首次会晤：历史性的一页",
+      "共同建设一个更加美好的世界",
+      "亚太合作的“深圳印记”",
+      "我国东部和东北地区持之以恒推进全面从严治党观察"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 新华网 2026-11-24 的报道：https://www.news.cn/politics/20261124/55ccdaf07882465a9c109ef94249d463/c.html"
+    }
+   }
+  ]
+ }
+]
