@@ -279,6 +279,33 @@ def main():
     if not pack["items"]:
         print("新内容不足，未生成题目")
         return 2
+    # 同一天可能被定时 + 手动跑好几次：并进当天那一条，别产生同 id 的重复包
+    # （客户端按 id 去重，重复 id 会让后一次的题被丢掉）
+    same = [p for p in old if p.get("id") == pack["id"]]
+    if same:
+        base = same[0]
+        have = set()
+        for p in same:
+            for it in p.get("items", []):
+                have.add(json.dumps(it.get("q"), ensure_ascii=False, sort_keys=True))
+        for h in same[0].get("highlights", []):
+            if h not in pack["highlights"]:
+                pack["highlights"].append(h)
+        for p in same[1:]:
+            for it in p.get("items", []):
+                k = json.dumps(it.get("q"), ensure_ascii=False, sort_keys=True)
+                if k not in have:
+                    base.setdefault("items", []).append(it)
+                    have.add(k)
+        merged = []
+        for it in pack["items"]:
+            k = json.dumps(it.get("q"), ensure_ascii=False, sort_keys=True)
+            if k not in have:
+                merged.append(it)
+                have.add(k)
+        # 保住当天更早抓到的题，再补这次的新题
+        pack["items"] = base.get("items", []) + merged
+        old = [p for p in old if p.get("id") != pack["id"]]
     packs = ([pack] + old)[:12]
     print("生成 %s：%d 条要点 / %d 道题" % (pack["title"], len(pack["highlights"]), len(pack["items"])))
     if dry:
