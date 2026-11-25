@@ -1,5 +1,203 @@
 [
  {
+  "id": "d20261125",
+  "date": "2026-11-25",
+  "title": "每日考情 · 11 月 25 日",
+  "tags": [
+   "政治",
+   "时政"
+  ],
+  "highlights": [
+   {
+    "subject": "政治",
+    "text": "[求是网] “十五五”非遗传承人研培计划实施方案印发（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 第四次全国文物普查各项任务总体完成（2026-11-23）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 8000亿元“金融活水”投向了哪些项目（2026-11-23）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 加力！一系列稳定资本市场举措推出（2026-11-23）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 习近平会见澳大利亚总理阿尔巴尼斯（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 一见·习近平主席发出的合作邀约,关乎全球工商界的新机遇（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 亚太经合组织贸易数字化合作框架(2027-2030)（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 亚太目光聚焦深圳 点赞中国发展活力（2026-11-20）"
+   }
+  ],
+  "items": [
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：“十五五”非遗传承人研培计划实施方案印发。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由求是网公开发布。原文：http://www.qstheory.cn/20261124/d5b30789a5574133a05e61cb55f30a1e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据人民网 2026-11-23 报道：第四次全国文物普查各项任务总体完成。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-23 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261123/21aa487cf7dc482fa2c27278ddb8b235/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据求是网 2026-11-23 报道：8000亿元“金融活水”投向了哪些项目。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-23 由求是网公开发布。原文：http://www.qstheory.cn/20261123/391f920173b844518bbf615b2d7c4da2/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据中国政府网 2026-11-23 报道：加力！一系列稳定资本市场举措推出。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-23 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261123/a19478383c7048e282e73fd63d3a6f9e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：习近平会见澳大利亚总理阿尔巴尼斯。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1120/c1024-40837754.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据新华网 2026-11-20 报道：一见·习近平主席发出的合作邀约,关乎全球工商界的新机遇。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由人民网公开发布，题干误标为新华网。原文：http://politics.people.com.cn/n1/2026/1120/c461001-40837931.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：亚太经合组织贸易数字化合作框架(2027-2030)。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1120/c461001-40837773.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据求是网 2026-11-20 报道：亚太目光聚焦深圳 点赞中国发展活力。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由人民网公开发布，题干误标为求是网。原文：http://sz.people.com.cn/n2/2026/1120/c202846-41756264.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据新华网 2026-11-25 报道：神二十四航天员乘组出征仪式在酒泉卫星发射中心举行。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由新华网公开发布。原文：https://www.news.cn/tech/20261125/b5d9eb7584a640a89921eb739d4b9726/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：经济活力足 消费市场旺。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/photo/20261124/16b6b2c565c7479894b9f6ecbe39877f/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：星空相册丨“超级月亮”现身天宇。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-24 由新华网公开发布。原文：https://www.news.cn/photo/20261124/04132402ee0042a884119c88fe38ac2a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据求是网 2026-11-24 报道：我国最大玉米制种基地良种加工忙。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261124/ff25cc6ddee740fba64d1f34f7f677f0/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-24 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "“十五五”非遗传承人研培计划实施方案印发",
+      "第四次全国文物普查各项任务总体完成",
+      "8000亿元“金融活水”投向了哪些项目",
+      "加力！一系列稳定资本市场举措推出"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-24 的报道：http://www.qstheory.cn/20261124/d5b30789a5574133a05e61cb55f30a1e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-23 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "加力！一系列稳定资本市场举措推出",
+      "习近平会见澳大利亚总理阿尔巴尼斯",
+      "一见·习近平主席发出的合作邀约,关乎全球工商界的新机遇",
+      "亚太经合组织贸易数字化合作框架(2027-2030)"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-20 的报道：http://politics.people.com.cn/n1/2026/1120/c461001-40837773.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "亚太经合组织贸易数字化合作框架(2027-2030)",
+      "亚太目光聚焦深圳 点赞中国发展活力",
+      "神二十四航天员乘组出征仪式在酒泉卫星发射中心举行",
+      "经济活力足 消费市场旺"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-25 的报道：https://www.news.cn/tech/20261125/b5d9eb7584a640a89921eb739d4b9726/c.html"
+    }
+   }
+  ]
+ },
+ {
   "id": "d20261124",
   "date": "2026-11-24",
   "title": "每日考情 · 11 月 24 日",
