@@ -1,5 +1,203 @@
 [
  {
+  "id": "d20261126",
+  "date": "2026-11-26",
+  "title": "每日考情 · 11 月 26 日",
+  "tags": [
+   "政治",
+   "时政"
+  ],
+  "highlights": [
+   {
+    "subject": "政治",
+    "text": "[求是网] 6G创新发展部省协同试点在上海启动（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 我国牵头制定78项人工智能国际标准（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 疾控“十五五”规划这样共绘健康蓝图（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 气候谈判遇挫更需坚守多边主义正道（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 习近平对党内法规工作作出重要指示（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 今日谈丨依规治党 砺行致远（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] \"开放是深圳与生俱来的基因\"（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] \"中国是维护和平与正义的可靠伙伴\"（2026-11-26）"
+   }
+  ],
+  "items": [
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据求是网 2026-11-25 报道：6G创新发展部省协同试点在上海启动。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由求是网公开发布。原文：http://www.qstheory.cn/20261125/900484a0bad64752885d2480dced2264/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据人民网 2026-11-25 报道：我国牵头制定78项人工智能国际标准。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-25 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261125/e3989a22518740dea7ed4727f4a00057/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据求是网 2026-11-25 报道：疾控“十五五”规划这样共绘健康蓝图。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由求是网公开发布。原文：http://www.qstheory.cn/20261125/c183bdcb3d604df488aff04afe574318/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据中国政府网 2026-11-25 报道：气候谈判遇挫更需坚守多边主义正道。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-25 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261125/440f2094d1e74715b0782db7731d68a8/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据人民网 2026-11-26 报道：习近平对党内法规工作作出重要指示。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1126/c1024-40840504.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：今日谈丨依规治党 砺行致远。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由人民网公开发布，题干误标为新华网。原文：http://opinion.people.com.cn/n1/2026/1126/c461529-40840511.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据人民网 2026-11-26 报道：\"开放是深圳与生俱来的基因\"。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由人民网公开发布。原文：http://finance.people.com.cn/n1/2026/1126/c1004-40840508.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：\"中国是维护和平与正义的可靠伙伴\"。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由人民网公开发布，题干误标为求是网。原文：http://world.people.com.cn/n1/2026/1126/c1002-40840514.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：扬帆赴星河 同行聚“天宫”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/tech/20261126/ca4a54bf92854a09bfaf0ea065867900/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据新华网 2026-11-25 报道：巴基斯坦各界热议：“我们为同胞进入中国空间站而自豪”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由新华网公开发布。原文：https://www.news.cn/world/20261125/869f4804d9454f76981dd84f8f67ff4f/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据新华网 2026-11-25 报道：中柬“金龙-2026”联合演习开始。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由新华网公开发布。原文：https://www.news.cn/world/20261125/e8ca92ad164e4ec0a612a5395d5f0ed3/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据求是网 2026-11-25 报道：全国普速旅客列车和旅游列车车次变更实施。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-25 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261125/02a1cb55b2324e0b9a1d76c6fdcb06a9/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-25 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "6G创新发展部省协同试点在上海启动",
+      "我国牵头制定78项人工智能国际标准",
+      "疾控“十五五”规划这样共绘健康蓝图",
+      "气候谈判遇挫更需坚守多边主义正道"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-25 的报道：http://www.qstheory.cn/20261125/900484a0bad64752885d2480dced2264/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-25 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "气候谈判遇挫更需坚守多边主义正道",
+      "习近平对党内法规工作作出重要指示",
+      "今日谈丨依规治党 砺行致远",
+      "\"开放是深圳与生俱来的基因\""
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-26 的报道：http://finance.people.com.cn/n1/2026/1126/c1004-40840508.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-26 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "\"开放是深圳与生俱来的基因\"",
+      "\"中国是维护和平与正义的可靠伙伴\"",
+      "扬帆赴星河 同行聚“天宫”",
+      "巴基斯坦各界热议：“我们为同胞进入中国空间站而自豪”"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-26 的报道：https://www.news.cn/tech/20261126/ca4a54bf92854a09bfaf0ea065867900/c.html"
+    }
+   }
+  ]
+ },
+ {
   "id": "d20261125",
   "date": "2026-11-25",
   "title": "每日考情 · 11 月 25 日",
