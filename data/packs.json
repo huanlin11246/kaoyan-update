@@ -10,6 +10,38 @@
   "highlights": [
    {
     "subject": "政治",
+    "text": "[求是网] 中国算法赛事吸引全球万余支队伍（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 财政部等五部门印发《常态化帮扶资金绩效评价办法》（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 提高党员、干部网上群众工作本领（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 让文化遗产在数字空间焕发勃勃生机（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 用改革的办法解决发展中的问题（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 74.8%，内需贡献率怎么看（2026-11-24）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 新动能是一步一步闯出来的（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 一纸船检证书 激活航运活力（2026-11-26）"
+   },
+   {
+    "subject": "政治",
     "text": "[求是网] 今年“三北”工程建设任务已完成过九成（2026-11-26）"
    },
    {
@@ -444,6 +476,159 @@
      ],
      "answer": 0,
      "analysis": "正确项来自 新华网 2026-11-26 的报道：https://www.news.cn/fortune/20261126/db6f0d4f9cf84060a39c9a85709b5e64/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：中国算法赛事吸引全球万余支队伍。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由求是网公开发布。原文：http://www.qstheory.cn/20261126/dacf729c8af7478c8e23ca4f8b95220e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据人民网 2026-11-26 报道：财政部等五部门印发《常态化帮扶资金绩效评价办法》。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261126/d3a81b0279bd41deadbbca61c7e40710/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：提高党员、干部网上群众工作本领。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由求是网公开发布。原文：http://www.qstheory.cn/20261126/b3249f83ac7644cfa7c25740e61dde02/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据中国政府网 2026-11-26 报道：让文化遗产在数字空间焕发勃勃生机。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261126/3d54873bdeaf4c21843bb5508102c8a1/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据人民网 2026-11-26 报道：用改革的办法解决发展中的问题。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由人民网公开发布。原文：http://finance.people.com.cn/n1/2026/1126/c1004-40840523.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 24 日）据新华网 2026-11-24 报道：74.8%，内需贡献率怎么看。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-24 由人民网公开发布，题干误标为新华网。原文：http://finance.people.com.cn/n1/2026/1124/c1004-40839220.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据人民网 2026-11-25 报道：新动能是一步一步闯出来的。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-25 由人民网公开发布。原文：http://finance.people.com.cn/n1/2026/1125/c1004-40839844.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：一纸船检证书 激活航运活力。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由人民网公开发布，题干误标为求是网。原文：http://finance.people.com.cn/n1/2026/1126/c1004-40840524.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：“中国科技第一展”在深圳开幕。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/photo/20261126/a027b60b076c4029bb7bde23f8319bdd/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：“十五五”@你丨老年食堂变身“银发会客厅”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/photo/20261126/61863bd7ce4c417ca24bd1a31b0f0199/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：寻找照片中的TA丨小云涛，你在哪里？。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/politics/20261126/8aceb92746f3445eb305806ae7515941/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：世界最长高速公路水下盾构隧道首线成功穿越长江。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-26 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/20261126/a702f03ea6bb4f03a199a86791baa92a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-26 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "中国算法赛事吸引全球万余支队伍",
+      "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
+      "提高党员、干部网上群众工作本领",
+      "让文化遗产在数字空间焕发勃勃生机"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-26 的报道：http://www.qstheory.cn/20261126/dacf729c8af7478c8e23ca4f8b95220e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-26 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "让文化遗产在数字空间焕发勃勃生机",
+      "用改革的办法解决发展中的问题",
+      "74.8%，内需贡献率怎么看",
+      "新动能是一步一步闯出来的"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-25 的报道：http://finance.people.com.cn/n1/2026/1125/c1004-40839844.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-25 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "新动能是一步一步闯出来的",
+      "一纸船检证书 激活航运活力",
+      "“中国科技第一展”在深圳开幕",
+      "“十五五”@你丨老年食堂变身“银发会客厅”"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-26 的报道：https://www.news.cn/photo/20261126/a027b60b076c4029bb7bde23f8319bdd/c.html"
     }
    }
   ]
