@@ -10,6 +10,38 @@
   "highlights": [
    {
     "subject": "政治",
+    "text": "[求是网] 市场监管总局回应食品保质期标注问题（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 硬科技前沿成果集中亮相高交会 展现中国“向新力”（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 东风着陆场完成最后一次全系统演练 准备就绪迎神二十三飞船天外归来（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 人工智能全球治理面临哪些现实挑战（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] “外企用脚投票中国”的市场逻辑（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 一见·外国政要访华,\"看创新\"成热潮（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 《习近平的文化情缘》在斯里兰卡主流媒体播出（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 依规治党,永远在路上（2026-11-27）"
+   },
+   {
+    "subject": "政治",
     "text": "[求是网] 《习近平关于尊重和保障人权论述摘编》学术研讨会在泰国曼谷举行（2026-11-27）"
    },
    {
@@ -402,6 +434,159 @@
      ],
      "answer": 1,
      "analysis": "正确项来自 新华网 2026-11-27 的报道：http://jx.news.cn/20261127/d5904ea24afc4d16917327c54622442b/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：市场监管总局回应食品保质期标注问题。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由求是网公开发布。原文：http://www.qstheory.cn/20261127/a82095153ec14cd7b0fb52aeec4a9487/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：硬科技前沿成果集中亮相高交会 展现中国“向新力”。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261127/cd115dea8c6a47dbb54ee4da32c3b124/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：东风着陆场完成最后一次全系统演练 准备就绪迎神二十三飞船天外归来。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由求是网公开发布。原文：http://www.qstheory.cn/20261127/2c0c07f7af8748a19f790c5df1e54d6a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据中国政府网 2026-11-27 报道：人工智能全球治理面临哪些现实挑战。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261127/c0bcb963b27a46b598c1190ae5e2aa17/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：“外企用脚投票中国”的市场逻辑。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由人民网公开发布。原文：https://finance.people.com.cn/n1/2026/1127/c1004-40841227.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：一见·外国政要访华,\"看创新\"成热潮。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由人民网公开发布，题干误标为新华网。原文：http://politics.people.com.cn/n1/2026/1127/c461001-40841943.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：《习近平的文化情缘》在斯里兰卡主流媒体播出。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1127/c461001-40841944.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：依规治党,永远在路上。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由人民网公开发布，题干误标为求是网。原文：http://politics.people.com.cn/n1/2026/1127/c461001-40841945.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：神舟二十四号发射任务全回顾。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/politics/20261127/d668610dcebe41c69d0056110fff3ad8/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：安徽三条高铁同日开通 区域发展再添动能。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/photo/20261127/6ddfb37d46ae42fcb4216eae4f2942be/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：黔中再添新通道 贵州乌长高速建成运营。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/politics/20261127/575ae8dd9a09422fb55cd1330c6e58e3/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：第二十四届广州国际汽车展览会开幕。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261127/9832936c7da649f78302223802988a58/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "市场监管总局回应食品保质期标注问题",
+      "硬科技前沿成果集中亮相高交会 展现中国“向新力”",
+      "东风着陆场完成最后一次全系统演练 准备就绪迎神二十三飞船天外归来",
+      "人工智能全球治理面临哪些现实挑战"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-27 的报道：http://www.qstheory.cn/20261127/a82095153ec14cd7b0fb52aeec4a9487/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "人工智能全球治理面临哪些现实挑战",
+      "“外企用脚投票中国”的市场逻辑",
+      "一见·外国政要访华,\"看创新\"成热潮",
+      "《习近平的文化情缘》在斯里兰卡主流媒体播出"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-27 的报道：http://politics.people.com.cn/n1/2026/1127/c461001-40841944.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "《习近平的文化情缘》在斯里兰卡主流媒体播出",
+      "依规治党,永远在路上",
+      "神舟二十四号发射任务全回顾",
+      "安徽三条高铁同日开通 区域发展再添动能"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-27 的报道：https://www.news.cn/politics/20261127/d668610dcebe41c69d0056110fff3ad8/c.html"
     }
    }
   ]
