@@ -1,5 +1,203 @@
 [
  {
+  "id": "d20261127",
+  "date": "2026-11-27",
+  "title": "每日考情 · 11 月 27 日",
+  "tags": [
+   "政治",
+   "时政"
+  ],
+  "highlights": [
+   {
+    "subject": "政治",
+    "text": "[求是网] 深入实施积极应对人口老龄化国家战略（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 答好大国良性互动这道必答题（2026-11-20）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 推动服务业优质高效发展，关键在“融合”（2026-11-26）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 数智时代，如何以科技之力有效应对人口老龄化（2026-11-25）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 以新型能源体系建设筑牢能源安全根基（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 李强会见亚洲开发银行行长神田真人（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 任平:从四座城看\"两个结合\"的新时代实践（2026-11-27）"
+   }
+  ],
+  "items": [
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据求是网 2026-11-20 报道：深入实施积极应对人口老龄化国家战略。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-20 由求是网公开发布。原文：http://www.qstheory.cn/20261120/5585acc291754106aad8ac1c8bd246de/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 20 日）据人民网 2026-11-20 报道：答好大国良性互动这道必答题。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-20 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261120/e9054c2351ce4cbfbc07976bb0f387c9/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据求是网 2026-11-26 报道：推动服务业优质高效发展，关键在“融合”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由求是网公开发布。原文：http://www.qstheory.cn/20261126/bd79b33adc184d5e8678686049985b76/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 25 日）据中国政府网 2026-11-25 报道：数智时代，如何以科技之力有效应对人口老龄化。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-25 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261125/5e02fe9cf17d41689dac766c20256897/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1127/c1001-40841222.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：以新型能源体系建设筑牢能源安全根基。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由人民网公开发布，题干误标为新华网。原文：http://politics.people.com.cn/n1/2026/1127/c1001-40841249.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：李强会见亚洲开发银行行长神田真人。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1127/c1024-40841224.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：任平:从四座城看\"两个结合\"的新时代实践。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由人民网公开发布，题干误标为求是网。原文：http://opinion.people.com.cn/n1/2026/1127/c461529-40841226.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：第十六届中国航展首批境外参展物资通关抵达展馆。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/20261126/3ac542fda4264d4b9b69698fff0ae364/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：雄安卫星AIT中心正式投入运行。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/photo/20261126/1babd8b9844e446fa5ed26b65218b29a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 26 日）据新华网 2026-11-26 报道：“华龙一号”漳州核电4号机组内穹顶吊装就位。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-26 由新华网公开发布。原文：https://www.news.cn/local/20261126/a9f3600536734a15be85566586855e1e/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 17 日）据求是网 2026-11-17 报道：2026企业家博鳌论坛欢迎您。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-17 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/enterprise/20261117/db00cfcbc89347c98b471e3574b30ddc/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-20 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "深入实施积极应对人口老龄化国家战略",
+      "答好大国良性互动这道必答题",
+      "推动服务业优质高效发展，关键在“融合”",
+      "数智时代，如何以科技之力有效应对人口老龄化"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-20 的报道：http://www.qstheory.cn/20261120/5585acc291754106aad8ac1c8bd246de/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-25 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "数智时代，如何以科技之力有效应对人口老龄化",
+      "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础",
+      "以新型能源体系建设筑牢能源安全根基",
+      "李强会见亚洲开发银行行长神田真人"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-27 的报道：http://politics.people.com.cn/n1/2026/1127/c1024-40841224.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "李强会见亚洲开发银行行长神田真人",
+      "任平:从四座城看\"两个结合\"的新时代实践",
+      "第十六届中国航展首批境外参展物资通关抵达展馆",
+      "雄安卫星AIT中心正式投入运行"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-26 的报道：https://www.news.cn/20261126/3ac542fda4264d4b9b69698fff0ae364/c.html"
+    }
+   }
+  ]
+ },
+ {
   "id": "d20261126",
   "date": "2026-11-26",
   "title": "每日考情 · 11 月 26 日",
