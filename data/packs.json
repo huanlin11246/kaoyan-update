@@ -10,6 +10,38 @@
   "highlights": [
    {
     "subject": "政治",
+    "text": "[求是网] 我国发布地球大模型引擎SUICE V0.1版（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 中国工商界呼吁美方撤回拟议加税措施（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 生态环境部已公布190个美丽河湖优秀案例（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 国常会新部署释放明确稳市信号（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 以全面从严治党新成效护航高质量发展（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 以全面从严治党护航新的长征（2026-11-23）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 以更高标准、更实举措把全面从严治党持之以恒抓下去（2026-10-31）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 正己力行 锤炼党性（2026-11-27）"
+   },
+   {
+    "subject": "政治",
     "text": "[求是网] 《习近平的文化情缘》在斯里兰卡主流媒体播出（2026-11-28）"
    },
    {
@@ -402,6 +434,159 @@
      ],
      "answer": 1,
      "analysis": "正确项来自 新华网 2026-11-28 的报道：https://www.news.cn/photo/20261128/930b734e42f6440882449e24a11a4555/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：我国发布地球大模型引擎SUICE V0.1版。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由求是网公开发布。原文：http://www.qstheory.cn/20261128/f461202aee0d4b1385bc5c741c5da94c/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据人民网 2026-11-28 报道：中国工商界呼吁美方撤回拟议加税措施。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261128/ff3664f448b04e41b57541ea50a4eac8/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：生态环境部已公布190个美丽河湖优秀案例。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由求是网公开发布。原文：http://www.qstheory.cn/20261128/2fdb6a65dde0432d94dd0a63a38b98ec/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据中国政府网 2026-11-28 报道：国常会新部署释放明确稳市信号。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261128/e698a781dca84663bd2859565bd35a1a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据人民网 2026-11-28 报道：以全面从严治党新成效护航高质量发展。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1128/c461001-40841997.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 23 日）据新华网 2026-11-23 报道：以全面从严治党护航新的长征。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-23 由人民网公开发布，题干误标为新华网。原文：http://opinion.people.com.cn/n1/2026/1123/c461529-40838455.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·10 月 31 日）据人民网 2026-10-31 报道：以更高标准、更实举措把全面从严治党持之以恒抓下去。（　）",
+     "answer": true,
+     "analysis": "该条 2026-10-31 由人民网公开发布。原文：http://politics.people.com.cn/n1/2026/1031/c1001-40824947.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：正己力行 锤炼党性。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由人民网公开发布，题干误标为求是网。原文：http://opinion.people.com.cn/n1/2026/1127/c461529-40841244.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：美丽中国丨初冬调色盘。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由新华网公开发布。原文：https://www.news.cn/local/20261128/0c40e370845d4cf791a544c23945a2fc/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：青海门源：冬日雪峰迎客来。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由新华网公开发布。原文：https://www.news.cn/photo/20261128/8ae5043bcab74eb29c5aaa2a1745cbfb/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：甘肃安南坝：野骆驼驰骋戈壁。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由新华网公开发布。原文：https://www.news.cn/photo/20261128/e4dd56f9943b438090e4672d094d5660/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：镜观中国·新华社国内新闻照片一周精选。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261128/54e13c1edcca478dad051249a8804515/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-28 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "我国发布地球大模型引擎SUICE V0.1版",
+      "中国工商界呼吁美方撤回拟议加税措施",
+      "生态环境部已公布190个美丽河湖优秀案例",
+      "国常会新部署释放明确稳市信号"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-28 的报道：http://www.qstheory.cn/20261128/f461202aee0d4b1385bc5c741c5da94c/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-28 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "国常会新部署释放明确稳市信号",
+      "以全面从严治党新成效护航高质量发展",
+      "以全面从严治党护航新的长征",
+      "以更高标准、更实举措把全面从严治党持之以恒抓下去"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-10-31 的报道：http://politics.people.com.cn/n1/2026/1031/c1001-40824947.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-10-31 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "以更高标准、更实举措把全面从严治党持之以恒抓下去",
+      "正己力行 锤炼党性",
+      "美丽中国丨初冬调色盘",
+      "青海门源：冬日雪峰迎客来"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-28 的报道：https://www.news.cn/local/20261128/0c40e370845d4cf791a544c23945a2fc/c.html"
     }
    }
   ]
