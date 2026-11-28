@@ -10,6 +10,38 @@
   "highlights": [
    {
     "subject": "政治",
+    "text": "[求是网] 《习近平的文化情缘》在斯里兰卡主流媒体播出（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 大额存单个人认购起点下调至10万元（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 市场监管总局集中约谈15家电动自行车企业（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 11个部门联合公布应用规定 支持不同数字身份间互通互认（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[中国共产党新闻网] 从“安澜”到“通衢”（2026-11-03）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] “赣小橙”的兴农路（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 赣鄱绘蓝图 自然启新程（2026-11-21）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 习近平:大国良性互动不是选择题,而是必答题（2026-11-28）"
+   },
+   {
+    "subject": "政治",
     "text": "[求是网] 高举和平利用外层空间旗帜（2026-11-27）"
    },
    {
@@ -193,6 +225,183 @@
      ],
      "answer": 2,
      "analysis": "正确项来自 新华网 2026-11-27 的报道：https://www.news.cn/politics/20261127/4594f67246d94319a4d8bef8e006d47b/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：《习近平的文化情缘》在斯里兰卡主流媒体播出。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由求是网公开发布。原文：http://www.qstheory.cn/20261128/de7213b08a7343b8b9c05be56745f083/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据人民网 2026-11-28 报道：大额存单个人认购起点下调至10万元。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261128/9d5fda0253c84f5791331cad50834fbf/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：市场监管总局集中约谈15家电动自行车企业。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由求是网公开发布。原文：http://www.qstheory.cn/20261128/ea497ec8c3f248cb9fdbee599a20d374/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据中国政府网 2026-11-28 报道：11个部门联合公布应用规定 支持不同数字身份间互通互认。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261128/45b75dc341784d3d9ec847c8b8d0ac50/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 3 日）据中国共产党新闻网 2026-11-03 报道：从“安澜”到“通衢”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-03 由中国共产党新闻网公开发布。原文：https://cpc.people.com.cn/n1/2026/1103/c64387-40826646.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：“赣小橙”的兴农路。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由人民网公开发布，题干误标为新华网。原文：https://finance.people.com.cn/n1/2026/1128/c1004-40841979.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 21 日）据人民网 2026-11-21 报道：赣鄱绘蓝图 自然启新程。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-21 由人民网公开发布。原文：http://jx.people.com.cn/n2/2026/1121/c186330-41756820.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：习近平:大国良性互动不是选择题,而是必答题。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由人民网公开发布，题干误标为求是网。原文：http://politics.people.com.cn/n1/2026/1128/c461001-40842059.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据人民网 2026-11-28 报道：全国一盘棋里的巨大潜能。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由人民网公开发布。原文：http://finance.people.com.cn/n1/2026/1128/c1004-40841990.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：这所大学，古树总量居全国高校第一。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/local/20261127/d7f61978bd0d43e18e271243a346d98a/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：乐享幸福银龄生活。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由新华网公开发布。原文：https://www.news.cn/photo/20261128/930b734e42f6440882449e24a11a4555/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：初冬银杏 金黄如画。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261128/acfe3a64d1254133a00181621bfd735d/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：屋没挪，村未空，讲法变了——“千年古村”流坑三十年的变与不变。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由新华网公开发布。原文：http://jx.news.cn/20261128/23561d32f64043c1bcb9c466dd0d2001/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-28 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "《习近平的文化情缘》在斯里兰卡主流媒体播出",
+      "大额存单个人认购起点下调至10万元",
+      "市场监管总局集中约谈15家电动自行车企业",
+      "11个部门联合公布应用规定 支持不同数字身份间互通互认"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-28 的报道：http://www.qstheory.cn/20261128/de7213b08a7343b8b9c05be56745f083/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-28 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "11个部门联合公布应用规定 支持不同数字身份间互通互认",
+      "从“安澜”到“通衢”",
+      "“赣小橙”的兴农路",
+      "赣鄱绘蓝图 自然启新程"
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-21 的报道：http://jx.people.com.cn/n2/2026/1121/c186330-41756820.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-21 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "赣鄱绘蓝图 自然启新程",
+      "习近平:大国良性互动不是选择题,而是必答题",
+      "全国一盘棋里的巨大潜能",
+      "这所大学，古树总量居全国高校第一"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 人民网 2026-11-28 的报道：http://finance.people.com.cn/n1/2026/1128/c1004-40841990.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "这所大学，古树总量居全国高校第一",
+      "乐享幸福银龄生活",
+      "初冬银杏 金黄如画",
+      "屋没挪，村未空，讲法变了——“千年古村”流坑三十年的变与不变"
+     ],
+     "answer": 1,
+     "analysis": "正确项来自 新华网 2026-11-28 的报道：https://www.news.cn/photo/20261128/930b734e42f6440882449e24a11a4555/c.html"
     }
    }
   ]
