@@ -1,5 +1,203 @@
 [
  {
+  "id": "d20261128",
+  "date": "2026-11-28",
+  "title": "每日考情 · 11 月 28 日",
+  "tags": [
+   "政治",
+   "时政"
+  ],
+  "highlights": [
+   {
+    "subject": "政治",
+    "text": "[求是网] 高举和平利用外层空间旗帜（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 全球人工智能治理体系存在哪些短板（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 携手构建公正合理的全球人工智能治理体系（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[求是网] 文化走出去，是谁在走？（2026-11-27）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 从“安澜”到“通衢”（2026-11-03）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 李强主持召开国务院常务会议（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] \"创新是深圳的活力所在\"（2026-11-28）"
+   },
+   {
+    "subject": "政治",
+    "text": "[人民网] 人民日报头版关注:\"赣小橙\"的兴农路（2026-11-28）"
+   }
+  ],
+  "items": [
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：高举和平利用外层空间旗帜。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由求是网公开发布。原文：http://www.qstheory.cn/20261127/cee0e0a073cc4ee8b14604822763a648/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据人民网 2026-11-27 报道：全球人工智能治理体系存在哪些短板。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由求是网公开发布，题干误标为人民网。原文：http://www.qstheory.cn/20261127/ff4ecedfd0914dc7849b5186da238f53/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：携手构建公正合理的全球人工智能治理体系。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由求是网公开发布。原文：http://www.qstheory.cn/20261127/347e0de0635145899d157e5b9d6e91db/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据中国政府网 2026-11-27 报道：文化走出去，是谁在走？。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由求是网公开发布，题干误标为中国政府网。原文：http://www.qstheory.cn/20261127/70cf0213754b4d8e912f565452ca4242/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 3 日）据人民网 2026-11-03 报道：从“安澜”到“通衢”。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-03 由人民网公开发布。原文：http://opinion.people.com.cn/n1/2026/1103/c461529-40826343.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据新华网 2026-11-28 报道：李强主持召开国务院常务会议。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由人民网公开发布，题干误标为新华网。原文：http://politics.people.com.cn/n1/2026/1128/c1024-40841982.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据人民网 2026-11-28 报道：\"创新是深圳的活力所在\"。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-28 由人民网公开发布。原文：http://finance.people.com.cn/n1/2026/1128/c1004-40841978.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 28 日）据求是网 2026-11-28 报道：人民日报头版关注:\"赣小橙\"的兴农路。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-28 由人民网公开发布，题干误标为求是网。原文：http://finance.people.com.cn/n1/2026/1128/c1004-40841979.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：从都江堰读懂江河治理的中国智慧。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/politics/20261127/4594f67246d94319a4d8bef8e006d47b/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：我国成功发射遥感五十号04星。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/tech/20261127/40ede3a652f1429fa3fbfaee70a2e416/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据新华网 2026-11-27 报道：武汉：智能制造激活汽车产业新动能。（　）",
+     "answer": true,
+     "analysis": "该条 2026-11-27 由新华网公开发布。原文：https://www.news.cn/photo/20261127/9235ac385fe546e6b972c7e8825314e8/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "judge",
+     "stem": "（时政·11 月 27 日）据求是网 2026-11-27 报道：甘肃敦煌首个电网侧独立储能电站建成投用。（　）",
+     "answer": false,
+     "analysis": "该条 2026-11-27 由新华网公开发布，题干误标为求是网。原文：https://www.news.cn/photo/20261127/a5732e94d67243b59af3b83ec0307ef4/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "高举和平利用外层空间旗帜",
+      "全球人工智能治理体系存在哪些短板",
+      "携手构建公正合理的全球人工智能治理体系",
+      "文化走出去，是谁在走？"
+     ],
+     "answer": 0,
+     "analysis": "正确项来自 求是网 2026-11-27 的报道：http://www.qstheory.cn/20261127/cee0e0a073cc4ee8b14604822763a648/c.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-27 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "文化走出去，是谁在走？",
+      "从“安澜”到“通衢”",
+      "李强主持召开国务院常务会议",
+      "\"创新是深圳的活力所在\""
+     ],
+     "answer": 3,
+     "analysis": "正确项来自 人民网 2026-11-28 的报道：http://finance.people.com.cn/n1/2026/1128/c1004-40841978.html"
+    }
+   },
+   {
+    "path": "politics/shizheng",
+    "q": {
+     "type": "choice",
+     "stem": "下列四条中，哪一条是 2026-11-28 前后官方媒体公开发布的报道标题？（　）",
+     "options": [
+      "\"创新是深圳的活力所在\"",
+      "人民日报头版关注:\"赣小橙\"的兴农路",
+      "从都江堰读懂江河治理的中国智慧",
+      "我国成功发射遥感五十号04星"
+     ],
+     "answer": 2,
+     "analysis": "正确项来自 新华网 2026-11-27 的报道：https://www.news.cn/politics/20261127/4594f67246d94319a4d8bef8e006d47b/c.html"
+    }
+   }
+  ]
+ },
+ {
   "id": "d20261127",
   "date": "2026-11-27",
   "title": "每日考情 · 11 月 27 日",
